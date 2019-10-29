@@ -1,0 +1,26 @@
+{
+  "id": "80164703-4bd4-4b0c-a87e-f723bdd77c8f",
+  "name": "Bank Checks Journal",
+  "publisher": "TComTech",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://CardsJournal.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
